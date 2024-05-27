@@ -1,4 +1,4 @@
-# CMPE489 Final Project: Replication Study of "Multitask Learning Via Interleaving: A Neural Network Investigation"
+# CMPE489 Final Project - Replication Study of "Multitask Learning Via Interleaving: A Neural Network Investigation"
 
 ## Overview
 This project investigates multitask learning using interleaving techniques. The experiments focus on understanding how interleaving different tasks affects the learning process and performance of neural networks.
