@@ -42,7 +42,7 @@ pip install torch torchvision matplotlib tqdm
 
 ## Running the Notebook
 1. Clone this repository to your local machine.
-2. Open the notebook `Copy_of_interleaved_learning.ipynb` in Jupyter Notebook or Jupyter Lab.
+2. Open the notebook `main.ipynb` in Jupyter Notebook or Jupyter Lab.
 3. Run the cells sequentially to reproduce the experiments.
 
 ## Results
