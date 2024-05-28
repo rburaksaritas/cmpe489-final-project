@@ -13,18 +13,15 @@ The notebook is divided into several sections, each focusing on different datase
 2. **Dividing a Single Dataset**:
    - **CIFAR5 + CIFAR5 (paper)**: Experiments using subsets of the CIFAR-10 dataset.
    - **STL5 + STL5 (alternative)**: Experiments using subsets of the STL-10 dataset.
-   - **MNIST5 + MNIST5 (alternative)**: Experiments using subsets of the MNIST dataset.
 
 3. **Two Different Datasets**:
-   - **CIFAR5 + SVHN5**: Combines subsets from CIFAR-10 and SVHN datasets.
    - **MNIST5 + FashionMNIST5**: Combines subsets from MNIST and Fashion-MNIST datasets.
 
 4. **Extended Training in Interleaved and Blocked Settings**:
    - Compare interleaved training with blocked training.
 
 5. **Extra: Interleaving Three Tasks**:
-   - **CIFAR3 + CIFAR3 + CIFAR3**: Uses three subsets of CIFAR-10.
-   - **MNIST3 + MNIST3 + FashionMNIST3**: Combines subsets from MNIST and Fashion-MNIST.
+   - **CIFAR50 + CIFAR50**: Experiments using subsets of the CIFAR-100 dataset.
 
 ## Setup
 To run this notebook, you need to have the following libraries installed:
