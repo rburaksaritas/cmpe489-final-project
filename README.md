@@ -1,7 +1,7 @@
 # CMPE489 Final Project - Replication Study of "Multitask Learning Via Interleaving: A Neural Network Investigation"
 
 ## Overview
-This project investigates multitask learning using interleaving techniques that are described by Mayo et al. in their paper ["Multitask Learning Via Interleaving: A Neural Network Investigation"](https://escholarship.org/uc/item/3tb956hb). The experiments focus on understanding how interleaving different tasks affects the learning process and performance of neural networks. Paper of this replication study can be found [here](https://www.overleaf.com/read/znbprfrgwbmg#3464f1).
+This project investigates multitask learning using interleaving techniques that are described by Mayo et al. in their paper ["Multitask Learning Via Interleaving: A Neural Network Investigation"](https://escholarship.org/uc/item/3tb956hb). The experiments focus on understanding how interleaving different tasks affects the learning process and performance of neural networks. Paper of this replication study can be found [here](https://www.overleaf.com/read/znbprfrgwbmg#3464f1). Experiments are conducted on Google Colab, if you prefer you can visit the [Colab Notebook](https://colab.research.google.com/drive/1UqOWF6FOx8qH4f5Mwt-scN4sPD9PYPfD?usp=sharing) directly. 
 
 ## Project Structure
 The notebook is divided into several sections, each focusing on different datasets and interleaving strategies:
